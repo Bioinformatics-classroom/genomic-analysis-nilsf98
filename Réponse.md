@@ -7,8 +7,17 @@ La séquence de référence est GRCh37.p13.
 ### Q2
 Ils se trouvent sur le chromosome 18.
 ### Q3
+NM_001243236.1:c.1449A>G pour NC_000018.9:g.52895531T>C
+NM_001243232.1:c.336+18306delC pour NC_000018.9:g.52999284delG
+Pas de transcrit trouvé pour NC_000018.9:g.53331929C>A.
+
 On remarque que sur les transcrits on a les nucléotides complémentaires à nos séquences en notation génomique. On peut en conclure que le gène se situe sur le brin anti-sens.
+
 ### Q4
 La fréquence du variant NC_000018.9:g.52895531T>C est de 0,375.
 La fréquence du variant NC_000018.9:g.52999284delG est de 0,02478.
-La fréquence du variant NC_000018.9:g. 53331929C>A est de 0.000008164.
+La fréquence du variant NC_000018.9:g.53331929C>A est de 0.000008164.
+
+### Q5
+
+Le variant NC_000018.9:g.53331929C>A code pour un codon stop au lieu d'une glycine.
