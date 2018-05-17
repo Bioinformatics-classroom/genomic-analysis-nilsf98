@@ -55,3 +55,16 @@ NM: mRNA (ADNc)
 3: version du variant
 (SHOX_i001): nom du gène et isoforme
 p: protéine
+p.(Glu133Asp): glutamine en position 133 de la protéine remplacéé par une asparigine
+
+###Q8
+C'est une mutation faux-sens.
+
+###Q9
+[NM_000451.3:c.399G>C in UCSC](http://genome.ucsc.edu/cgi-bin/hgTracks?db=hg19&lastVirtModeType=default&lastVirtModeExtraState=&virtModeType=default&virtMode=0&nonVirtPosition=&position=chrX%3A595464%2D595484&hgsid=669223545_bgYVTSnQ8PXkqaOC1CRV5PztLmwX)
+
+###Q10
+Le gène est sur le brin sens.
+
+###Q11
+Il contient 6 exons.
