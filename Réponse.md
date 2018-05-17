@@ -31,4 +31,27 @@ Le variant NC_000018.9:g.53331929C>A nécessiterait une étude approfondie car G
 La variation se trouve sur le gène SHOX.
 
 ###Q2
-Les 3 maladies sont dysplasie mesomelique type Langer, la dyschondrosteose et une petite taille.
+Les 3 maladies sont dysplasie mesomelique type Langer, la dyschondrosteose de Leri-Weill et une petite taille.
+
+###Q3
+Une mutation sur le gène Shox peut entrainer une petite taille idiopatique or ce gène est situé sur le chromosome X. De plus le syndrome de Turner implique un seul chromosome X. Par conséquent on a qu'un seul gène Shox fonctionnel et on otient donc une petite taille comme dans le Leri-Weill.
+
+###Q4
+NC_000023.10:g.595474G>C
+
+###Q5
+NC indique que la référence est l'ADN génomique.
+Le 000023: Chromosome 23
+10: Version 10 du gène
+g: notation génomique
+595474G>C: substition du G (référence) en C (mutation) en position 595474
+
+###Q6
+NM_000451.3(SHOX_i001):p.(Glu133Asp)
+
+###Q7
+NM: mRNA (ADNc)
+000451: numéro du transcrit
+3: version du variant
+(SHOX_i001): nom du gène et isoforme
+p: protéine
