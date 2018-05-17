@@ -68,3 +68,14 @@ Le gène est sur le brin sens.
 
 ###Q11
 Il contient 6 exons.
+
+###Q12
+Il est situé dans l'exon 3.
+
+###Q13
+La séquence est très mal consercée.
+
+###Q14
+Domaine homéobox
+
+###Q15
