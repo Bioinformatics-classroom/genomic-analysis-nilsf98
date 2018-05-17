@@ -19,5 +19,11 @@ La fréquence du variant NC_000018.9:g.52999284delG est de 0,02478.
 La fréquence du variant NC_000018.9:g.53331929C>A est de 0.000008164.
 
 ### Q5
-
+Le variant 1 code pour 22 transcrits synonymes et un transcirt non codant, se situant donc dans une région UTR.
+La mutation du variant 2 se situe dans une séquence intronique.
 Le variant NC_000018.9:g.53331929C>A code pour un codon stop au lieu d'une glycine.
+
+### Q6
+Le variant NC_000018.9:g.53331929C>A nécessiterait une étude approfondie car GnomAd nous indique la présence d'un codon stop ce qui implique une transcription alors que Mutalyzer ne mentionnait pas de transcrit.
+
+## Q2
