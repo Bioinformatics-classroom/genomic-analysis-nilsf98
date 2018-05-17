@@ -26,4 +26,9 @@ Le variant NC_000018.9:g.53331929C>A code pour un codon stop au lieu d'une glyci
 ### Q6
 Le variant NC_000018.9:g.53331929C>A nécessiterait une étude approfondie car GnomAd nous indique la présence d'un codon stop ce qui implique une transcription alors que Mutalyzer ne mentionnait pas de transcrit.
 
-## Q2
+## Exercice 2
+###Q1
+La variation se trouve sur le gène SHOX.
+
+###Q2
+Les 3 maladies sont dysplasie mesomelique type Langer, la dyschondrosteose et une petite taille.
